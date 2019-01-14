@@ -22,3 +22,4 @@ Usage of build/miner-darwin-amd64:
 #>build/miner-darwin-amd64 -a 0xf3adb7b7b9c582098cd77fd133eeb296e69ea1ff -d /data/ipfshome
 ```
 
+windows 和 linux 与示例相同，都是解压缩然后直接运行可执行文件即可.
