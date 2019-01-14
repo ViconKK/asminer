@@ -1,0 +1,2 @@
+# asminer
+agent-server miner
