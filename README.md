@@ -1,5 +1,4 @@
 # asminer
-agent-server miner
 
 ## 下载
 
