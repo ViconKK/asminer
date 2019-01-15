@@ -28,7 +28,6 @@ Usage of miner-darwin-amd64:
 解压缩后，在 cmd 进入矿工程序所在目录
 
 ```bash
-  -d string
 #>./miner-windows-amd64.exe -a 0xf3adb7b7b9c582098cd77fd133eeb296e69ea1ff -d d:/ipfshome
 ```
 
