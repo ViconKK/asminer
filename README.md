@@ -4,6 +4,7 @@
 
 * 下载 ：https://github.com/ViconKK/asminer/releases/tag/0.0.1
 
+* 矿工交流群：https://pt.im/joinchat/ad21f569f466f95b726d4ad910a58fcb
 ## 安装运行
 
 * darwin ：
